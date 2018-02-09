@@ -6,8 +6,7 @@ printf("Enter a number:");
 scanf("%d",&n);
 for(i=1;i<=5;i++)
  {
- mul=n*i;
- printf("%d\t",mul);
+ mul=n*i
  }
 return 0;
 }
